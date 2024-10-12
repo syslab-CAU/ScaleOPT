@@ -1,0 +1,9 @@
+[submodule "readerwriterqueue"]
+	path = readerwriterqueue
+	url = https://github.com/cameron314/readerwriterqueue.git
+[submodule "minmaxheap-cpp"]
+	path = minmaxheap-cpp
+	url = https://github.com/itsjohncs/minmaxheap-cpp.git
+[submodule "libCacheSim"]
+	path = libCacheSim
+	url = https://github.com/1a1a11a/libCacheSim.git
